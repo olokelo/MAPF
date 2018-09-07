@@ -60,15 +60,6 @@ SOFTWARE.
 
 ### List of image modes in MAPF
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
-.tg .tg-wgsn{font-family:Arial, Helvetica, sans-serif !important;;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0pky">Image mode</th>
@@ -155,26 +146,6 @@ SOFTWARE.
 
 ### List of compression algorithms used in MAPF
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
-.tg .tg-xv1u{background-color:#fe0000;text-align:left}
-.tg .tg-veep{background-color:#fd6864;text-align:left}
-.tg .tg-0w94{background-color:#34cdf9;text-align:left}
-.tg .tg-jkgw{background-color:#68cbd0;text-align:left}
-.tg .tg-698l{background-color:#f8ff00;text-align:left}
-.tg .tg-24ep{background-color:#3166ff;text-align:left}
-.tg .tg-bf1x{background-color:#34ff34;text-align:left}
-.tg .tg-dcf8{background-color:#fcff2f;text-align:left}
-.tg .tg-s268{text-align:left}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-57mh{background-color:#ffffc7;text-align:left}
-.tg .tg-f8vr{background-color:#ffccc9;text-align:left}
-.tg .tg-zuva{background-color:#c0c0c0;text-align:left}
-.tg .tg-gx9h{background-color:#9aff99;text-align:left}
-.tg .tg-8q3b{background-color:#ffc702;text-align:left}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-s268">Compression</th>
