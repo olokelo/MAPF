@@ -12,7 +12,7 @@ So it doesn't compress image at blocks.
 
 ### Which version I should download?
 
-You can download it in different versions...
+You can download it in different versions from [here](<https://github.com/olokelo/MAPF/releases/>)...
 
 * **MAPF0.9.9_win64_pyinstaller.zip** - Compiled by pyinstaller MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 64 bit. In exe included all possible compressions (external binaries too). Big exe size (~19MB) and not too fast executing.
 * **MAPF0.9.9_win64_nuitka_upx.zip** - Compiled by nuitka MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 64 bit. In zip included all possible compressions (external binaries too), but you have to extract all of items in archive into one folder. Small exe size (~5MB) and fast executing.
