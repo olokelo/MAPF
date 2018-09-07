@@ -2,6 +2,12 @@
 
 * * *
 
+# [DOWNLOAD](<https://github.com/olokelo/MAPF/releases/>)
+
+# [COMPARISONS WITH JPG/WEBP](https://github.com/olokelo/MAPF/blob/master/README.md#jpeg-vs-mapf-downscaled-2x)
+
+* * *
+
 ### What is MAPF?
 
 * **MAPF** is an experimental _Image Format_ written in python to encode mostly screenshots or artificially generated graphics, it can be better than jpg and webp. </br>
