@@ -14,20 +14,20 @@
 
 ### Why MAPF is better than webp/jpg compressing screenshots?
 * **MAPF** hasn't block compression algorithm.</br>
-So it doesn't compress image at blocks.
+So it compress it pixel by pixel.
 
 ### Which version I should download?
 
 You can download it in different versions from [here](<https://github.com/olokelo/MAPF/releases/>)...
 
-* **MAPF0.9.9_win64_pyinstaller.zip** - Compiled by pyinstaller MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 64 bit. In exe included all possible compressions (external binaries too). Big exe size (~19MB) and not too fast executing.
-* **MAPF0.9.9_win64_nuitka_upx.zip** - Compiled by nuitka MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 64 bit. In zip included all possible compressions (external binaries too), but you have to extract all of items in archive into one folder. Small exe size (~5MB) and fast executing.
-* **MAPF0.9.9_win32_pyinstaller.zip** - Compiled by pyinstaller MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 32 bit. In exe included all possible compressions (external binaries too). Big exe size (~19MB) and not too fast executing. *Works on 64bit windows too!* 
+* [**MAPF0.9.9_win64_pyinstaller.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win64_pyinstaller.zip>) - Compiled by pyinstaller MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 64 bit. In exe included all possible compressions (external binaries too). Big exe size (~19MB) and not too fast executing.
+* [**MAPF0.9.9_win64_nuitka_upx.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win64_nuitka_upx.zip>) - Compiled by nuitka MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 64 bit. In zip included all possible compressions (external binaries too), but you have to extract all of items in archive into one folder. Small exe size (~5MB) and fast executing.
+* [**MAPF0.9.9_win32_pyinstaller.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win32_pyinstaller.zip>) - Compiled by pyinstaller MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 32 bit. In exe included all possible compressions (external binaries too). Big exe size (~19MB) and not too fast executing. *Works on 64bit windows too!* 
 
-* **MAPF0.9.9_win32_nuitka_upx.zip** - Compiled by nuitka MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 32 bit. In zip included all possible compressions (external binaries too), but you have to extract all of items in archive into one folder. Small exe size (~3MB) and fast executing. *Works ONLY on 32bit windows platform!* 
-* **MAPF-0.9.9.tar.gz** - Source of MAPF, can be installed on windows with python 3. Install via `pip install MAPF-0.9.9.tar.gz`.
-* **MAPF0.9.9_win64_compressors.zip** - Only external compressors binaries (bcm.exe, nz.exe) packed into zip file for windows 64bit. (size ~400KB)
-* **MAPF0.9.9_win32_compressors.zip** - Only external compressors binaries (bcm.exe, nz.exe) packed into zip file for windows 32bit. (size ~340KB)
+* [**MAPF0.9.9_win32_nuitka_upx.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win32_nuitka_upx.zip>) - Compiled by nuitka MAPF binary for windows *VISTA, 7, 8, 8.1 and 10* - 32 bit. In zip included all possible compressions (external binaries too), but you have to extract all of items in archive into one folder. Small exe size (~3MB) and fast executing. *Works ONLY on 32bit windows platform!* 
+* [**MAPF-0.9.9.tar.gz**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF-0.9.9.tar.gz>) - Source of MAPF, can be installed on windows with python 3. Install via `pip install MAPF-0.9.9.tar.gz`.
+* [**MAPF0.9.9_win64_compressors.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win64_compressors.zip>) - Only external compressors binaries (bcm.exe, nz.exe) packed into zip file for windows 64bit, unpack it into folder with MAPF executable/script. (size ~400KB)
+* [**MAPF0.9.9_win32_compressors.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win32_compressors.zip>) - Only external compressors binaries (bcm.exe, nz.exe) packed into zip file for windows 32bit, unpack it into folder with MAPF executable/script. (size ~340KB)
 
 ### How MAPF compression works?
 * **MAPF** in mode 0 a special color space it supports only 2 097 152 colors (not 16 777 216 like in RGB color space).
