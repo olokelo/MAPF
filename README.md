@@ -6,6 +6,8 @@
 
 # [COMPARISONS WITH JPG/WEBP/PNG](https://github.com/olokelo/MAPF/blob/master/README.md#jpeg-vs-mapf-downscaled-2x)
 
+# [PYPI](https://pypi.org/project/MAPF/)
+
 * * *
 
 ### What is MAPF?
@@ -28,6 +30,8 @@ You can download it in different versions from [here](<https://github.com/olokel
 * [**MAPF-0.9.9.tar.gz**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF-0.9.9.tar.gz>) - Source of MAPF, can be installed on windows with python 3. Install via `pip install MAPF-0.9.9.tar.gz`.
 * [**MAPF0.9.9_win64_compressors.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win64_compressors.zip>) - Only external compressors binaries (bcm.exe, nz.exe) packed into zip file for windows 64bit, unpack it into folder with MAPF executable/script. (size ~400KB)
 * [**MAPF0.9.9_win32_compressors.zip**](<https://github.com/olokelo/MAPF/releases/download/0.9.9/MAPF0.9.9_win32_compressors.zip>) - Only external compressors binaries (bcm.exe, nz.exe) packed into zip file for windows 32bit, unpack it into folder with MAPF executable/script. (size ~340KB)
+
+* **Or install it directly to python using:** `pip install MAPF`...
 
 ### How MAPF compression works?
 * **MAPF** in mode 0 a special color space it supports only 2 097 152 colors (not 16 777 216 like in RGB color space).
