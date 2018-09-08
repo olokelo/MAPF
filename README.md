@@ -4,7 +4,7 @@
 
 # [DOWNLOAD](<https://github.com/olokelo/MAPF/releases/>)
 
-# [COMPARISONS WITH JPG/WEBP](https://github.com/olokelo/MAPF/blob/master/README.md#jpeg-vs-mapf-downscaled-2x)
+# [COMPARISONS WITH JPG/WEBP/PNG](https://github.com/olokelo/MAPF/blob/master/README.md#jpeg-vs-mapf-downscaled-2x)
 
 * * *
 
