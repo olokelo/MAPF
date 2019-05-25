@@ -301,7 +301,7 @@ SOFTWARE.
       </br>In python: _MAPFfile_ <-- str
       </br>In python: _debug_ <-- bool
 * **Display version:**
-  * `MAPF --version
+  * `MAPF --version`
     * Displays MAPF executable version.* 
     </br>In python: _MAPF.version_ --> str
 * **Display compressions:**
